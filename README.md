@@ -1,12 +1,7 @@
 ﻿  <p align="center">
     <br />
-    <b>Discord</b> <b>Custom</b> url <b>Sniper</b> with proxies
-    <br />
-    <a href="https://github.com/Don-Cryptus/Discord-Vanity-Url-Sniper/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Don-Cryptus/Discord-Vanity-Url-Sniper/issues">Request Feature</a>
-    <br />
-  </p>
+    <b>Discord</b> <b>Custom</b> url <b>Sniper</b
+    
 
 #### 1. Prerequisites
 
@@ -14,24 +9,20 @@
   pip install -r requirements.txt
   ```
 
-#### 2. create .env file as in example
+#### 2. open The starr.bat then wait and press Enter
 
+
+
+#### 3. Now IT should Say Something like this
 ```sh
-VANITY_URL=testingtesting
-GUILD_ID=9054168492797956147
-TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3
+Token:
+Bot:True/False
+guildId:
+vanity:
 ```
 
-#### 3. Change it to your server ID <a href="https://www.youtube.com/watch?v=NLWtSHWKbAI">Example video</a>
-```sh
-GUILD_ID=9054168492797956147
-```
 
-#### 4. Change token with your Discord account token which has admin privilleges on the specifc server <a href="https://www.youtube.com/watch?v=fKksxz2Gdnc">Example video</a>
 
-```sh
-TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3
-```
-</p>
-
-<b>P.S. if you are getting 429 Too Many Requests thats the proxies fault you have to be patient to cycle through valid proxies again</b>
+<b>If any Errors Contact xeto#5811 or join discord.gg/pupsik</b>
+![image](https://github.com/Xeto2W/Discord-Vanity-sniper/assets/108171547/1781b2d3-f182-4d01-b30a-43426373d4f7)
+![image (1)](https://github.com/Xeto2W/Discord-Vanity-sniper/assets/108171547/0273b025-98d3-4b09-a4e7-cf9f85248474)
